@@ -1,0 +1,4 @@
+# Architecture specific extensions/prefixes
+.DS_Store
+.vscode
+.patch
